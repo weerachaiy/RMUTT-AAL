@@ -15,4 +15,5 @@ Jun 11 2018
 Jun 12 2018	
 - Design appropriate assessment ดร.ทนพญ.รุ่งนภา ศรานุชิต
 - Innovating teaching approaches อ.ภญ.เอมอร ชัยประทีป
-- Modes of deliveryอ.ภญ.เอมอร ชัยประทีป
+- Modes of delivery อ.ภญ.เอมอร ชัยประทีป
+ 
